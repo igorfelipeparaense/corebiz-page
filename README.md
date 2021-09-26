@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h3 align="center">
+  Desafio Final Gobeyond.
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## <a href="" target="_blank">Link do deploy</a>
 
-## Available Scripts
+## :bulb: Ideia do Projeto
 
-In the project directory, you can run:
+```bash
+Como último desafio no Gobeyond .
 
-### `yarn start`
+-Desenvolvido com React JS.
+-Aplicado responsividade ao projeto.
+-Utilizado de Clean Code.
+-Axios para API.
+-Icones da Lib React Icons.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+## 🖼 Screenshot das telas da aplicação 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div>
+  <img src="https://user-images.githubusercontent.com/83182736/134825555-535004a5-8c00-4131-95a9-6c0cff4b25db.png" />
+  <img src="https://user-images.githubusercontent.com/83182736/134825560-80d397b2-cc75-42d8-aed1-6e24df89a59d.png" />
+  <img src="https://user-images.githubusercontent.com/83182736/134825563-0390bc50-6c93-4c82-8824-13b43bbde352.png" />
+  <img src="https://user-images.githubusercontent.com/83182736/134825564-e0e39307-9e79-4dbc-9878-61060814c542.png" />
+</div
+<br/>
+  
+ # 👷 Como rodar
 
-### `yarn test`
+```bash
+# Clonar o repositório
+git clone https://github.com/pacotee/test-corebiz-final
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Entrar numa IDE de sua preferência 
 
-### `yarn build`
+# Executar o servidor ou usar um puglin que criar um servidor
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Feito isso, abra o seu navegador e acesse `http://localhost:3000/`
+ou em uma porta de sua preferência.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ## 🤔 Como contribuir <br/>
 
-### `yarn eject`
+- Faça um fork desse repositório; <br/>
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;<br/>
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`; <br/>
+- Faça push para a sua branch: `git push origin minha-feature`.<br/>
+<br/>
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :mortar_board: Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/pacotee">
+                <img src="https://user-images.githubusercontent.com/83182736/128571620-d38188d7-0a0c-4d80-a1cb-84cc174f76c3.jpeg" width="150px;" alt="Image do Igor Felipe" />
+                <br />
+                <sub><b>Igor Felipe</b></sub>
+            </a>
+        </td>    
+    </tr>
+</table>
+<h4 align="center">
+   Feito com 💜 by  <a href="https://www.linkedin.com/in/igor-felipe-5263b8212/" target="_blank"> Igor Felipe </a>
+</h4>
