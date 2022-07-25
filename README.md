@@ -2,7 +2,7 @@
   Desafio Final Gobeyond.
 </h3>
 
-## <a href="https://test-corebiz-final.vercel.app/" target="_blank">Link do deploy</a>
+## <a href="https://corebiz-page.vercel.app/" target="_blank">Link do deploy</a>
 
 ## :bulb: Ideia do Projeto
 
